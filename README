@@ -1,0 +1,18 @@
+repository ini hanya untuk mengasah kekuatan algoritma saja.
+
+penggunaan variabel : variabel harus didefinsikan dengan $_, contoh '$_nama=fadhil'
+untuk print, kami menyediakan package  'konsol'.untuk setiap pemanggilan harus diawali dengan f_
+
+contoh mini
+
+$_nama=halo fadhil! hello world di bahasa pemrograman fadhil
+f_konsol->println->::$_nama::
+
+untuk komentar, disini saya pake //
+
+HELLO WORLD
+===========
+
+// This is comment
+$_hello=halo dunia!
+f_konsol->println->::$_hello::
