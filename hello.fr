@@ -1,1 +1,5 @@
-f_konsol->println->::lagi apa kak?::
+//variabel nama
+//deklarasi disini
+
+$_hehe=hello world bwank hehe 😃
+f_konsol->println->::$_hehe::
