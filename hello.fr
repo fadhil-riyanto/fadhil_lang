@@ -1,1 +1,1 @@
-konsol->println->::lagi apa kak?::
+f_konsol->println->::lagi apa kak?::
